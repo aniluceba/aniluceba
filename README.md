@@ -2,7 +2,7 @@
 
 * 💻 I'm passionate about technology, design and programming.
 * 📚 I'm currently learning NodeJs and React.
-* ⌨️ I'm looking for challenges where I can apply my knowledge and skills.
+* 🚀 I'm looking for challenges where I can apply my knowledge and skills.
 * 📧 You can send me and email to anlucceballos@gmail.com
 
 ### 🦋 Have a nice day!  
