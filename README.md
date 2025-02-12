@@ -1,7 +1,7 @@
 ### 💐 Hi, I'm Ana Lucía
 
 * 💻 I'm passionate about technology, design and programming.
-* 📚 I'm currently learning Angular and VueJs.
+* 📚 I'm currently learning Django.
 * 🚀 I'm looking for challenges where I can apply my knowledge and skills.
 * 📧 You can send me and email to anlucceballos@gmail.com
 
