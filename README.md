@@ -7,7 +7,7 @@
 
 - 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦 **anlucceballos@gmail.com**
 
-<h3 align="left">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞:</h3>
+<h3 align="left">𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/analucia-ceballos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="analucia-ceballos/" height="30" width="40" /></a>
 <a href="https://www.behance.net/anlucc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anlucc" height="30" width="40" /></a>
